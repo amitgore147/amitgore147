@@ -29,8 +29,6 @@ Soft Skills : Problem Solving • Team Player • Deliver Results
 </p>
 <br />
 
----
-
 <div align="center">
 <p>Thank you for visiting my profile</p>
 </div>
