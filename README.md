@@ -2,7 +2,7 @@
 
 ### About Me 🙌
 
-I'm a Dotnet Full Stack Developer. A passionate individual who loves building web applications.
+I'm a .NET Full Stack Developer. A passionate individual who loves building web applications.
 
 My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
 
