@@ -2,7 +2,7 @@
 
 ### About Me 🙌
 
-I'm a .NET Full Stack Developer. A passionate individual who loves building web applications.
+I'm a Java Full Stack Developer. A passionate individual who loves building web applications.
 
 My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
 
@@ -10,15 +10,15 @@ My motto of being determined towards the software world and its development for 
 
 ### Skills 🚀
 
-Database : MSSQL Server
+Database : MySQL
 
-Back End Development : CSharp • .Net Core • EF Core • ASP .Net Core Web API • ASP .Net Core MVC
+Back End Development : Java | SpringBoot | Eclipse IDE | Data Structures and Algorithm
 
-Front End Development : Angular • HTML • CSS • JavaScript • TypeScript • jQuery • Bootstrap
+Front End Development : Angular | HTML5 | CSS3 | SCSS | JavaScript | TypeScript | Bootstrap
 
-Miscellaneous : Microsoft Azure • Azure DevOps • Jenkins • Cloud Computing • SDLC • Agile • Scrum • Java
+Miscellaneous : Microsoft Azure | AWS | Git | GitHub | Agile Methodologies | Scrum | WinSCP
 
-Soft Skills : Problem Solving • Team Player • Deliver Results
+Soft Skills : Problem Solving | Team Player | Deliver Results
 
 #
 
