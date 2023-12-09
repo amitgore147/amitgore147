@@ -14,7 +14,7 @@ Database : MSSQL
 
 Front End Development : Angular | HTML5 | CSS3 | SCSS | JavaScript | TypeScript | Bootstrap
 
-Miscellaneous : Microsoft Azure | Git | GitHub | Agile Methodologies | Scrum | WinSCP
+Miscellaneous : Microsoft Azure | AWS S3 | AWS CloudFront | Git | GitHub | Agile | WinSCP
 
 Soft Skills : Problem Solving | Team Player | Deliver Results
 
