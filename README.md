@@ -25,7 +25,6 @@ Soft Skills : Problem Solving | Team Player | Deliver Results
 <p align="left">
 <a href="https://www.linkedin.com/in/amit-gore-32b880194/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/linkedin-2752135-2284952.png?f=webp&w=512" alt="amit-gore-32b880194" height="30" /></a>
 </p>
-<br />
 
 ----
 <div align="center">
