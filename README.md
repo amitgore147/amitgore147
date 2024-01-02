@@ -10,7 +10,7 @@ My motto of being determined towards the software world and its development for 
 
 ### Skills 🚀
 
-Database : MSSQL
+Database : MySQL
 
 Front End Development : Angular | HTML5 | CSS3 | SCSS | JavaScript | TypeScript | Bootstrap
 
