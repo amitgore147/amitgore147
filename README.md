@@ -12,9 +12,10 @@ My motto of being determined towards the software world and its development for 
 
 Database : MySQL
 
-Front End Development : Angular | HTML5 | CSS3 | SCSS | JavaScript | TypeScript | Bootstrap
+Front End Development : Angular | HTML5 | CSS3 | SCSS | JavaScript | TypeScript | Bootstrap | Micro-Front End |
+Visual Studio Code
 
-Miscellaneous : Microsoft Azure | AWS S3 | AWS CloudFront | Git | GitHub | Agile | WinSCP
+Miscellaneous : Git | GitHub | CI/CD | Agile | AWS S3 | Cloudfront | WinSCP | JSON Server
 
 Soft Skills : Problem Solving | Team Player | Deliver Results
 
