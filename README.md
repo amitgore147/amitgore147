@@ -2,7 +2,7 @@
 
 ### About Me 🙌
 
-I'm a Front End Developer. A passionate individual who loves building web applications.
+I'm a Front End Developer | Angular Developer. A passionate individual who loves building web applications.
 
 My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
 
