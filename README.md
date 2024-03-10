@@ -10,12 +10,12 @@ My motto of being determined towards the software world and its development for 
 
 ### Skills 🚀
 
-Database : MySQL
+Database : MS SQL Server
 
-Front End Development : Angular | HTML5 | CSS3 | SCSS | JavaScript | TypeScript | Bootstrap | Micro-Front End |
-Visual Studio Code
+Front End Development : Angular | HTML5 | CSS3 | SCSS | JavaScript | TypeScript | Bootstrap | RxJs | NgRx | Angular
+Material | DevExtreme | JSON Server | Chrome Developer Tools | Micro-Front End | Visual Studio Code
 
-Miscellaneous : Git | GitHub | CI/CD | Agile | AWS S3 | Cloudfront | WinSCP | JSON Server
+Miscellaneous : Git | GitHub | CI/CD | AWS S3 Bucket | Cloudfront | WinSCP | WinMerge | Scrum | Agile | JIRA
 
 Soft Skills : Problem Solving | Team Player | Deliver Results
 
