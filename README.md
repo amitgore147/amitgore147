@@ -12,10 +12,14 @@ My motto of being determined towards the software world and its development for 
 ### Skills 🚀
 
 Database : MSSQL
+
 Backend : C# | .NET Core | Entity Framework Core | ASP.NET Core Web API | NUnit
+
 Frontend : HTML5 | CSS3 | SCSS | JavaScript | TypeScript | Angular | RxJs | NgRx | Jasmine | Karma | Bootstrap |
 Angular Material | DevExtreme | JSON Server | Chrome Developer Tools | Micro Front End | Visual Studio Code
+
 DevOps : Git | GitHub | CI/CD | AWS S3 | AWS Cloudfront
+
 Miscellaneous : WinMerge | JIRA | Scrum | Agile | Kanban
 
 #
