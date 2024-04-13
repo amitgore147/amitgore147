@@ -2,7 +2,7 @@
 
 ### About Me 🙌
 
-I'm a .NET Full stack software Developer with over 2.5 years of experience in front-end and back-end development.
+I'm a .NET Full Stack Developer with over 2.5 years of experience in front-end and back-end development.
 Experienced in collaborating with cross-functional teams to deliver high-quality code.
 
 My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
