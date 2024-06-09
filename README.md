@@ -20,7 +20,7 @@ Angular Material | DevExtreme | JSON Server | Chrome Developer Tools | Micro Fro
 
 DevOps : Git | GitHub | CI/CD | AWS S3 | AWS Cloudfront
 
-Miscellaneous : WinMerge | JIRA | Scrum | Agile | Kanban
+Miscellaneous : JIRA | Scrum | Agile
 
 #
 
