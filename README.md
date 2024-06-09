@@ -13,9 +13,9 @@ My motto of being determined towards the software world and its development for 
 
 Database : MSSQL
 
-Backend : C# | .NET Core | Entity Framework Core | ASP.NET Core Web API | NUnit
+Backend : C# | .NET Core | Entity Framework Core | ASP.NET Core Web API | XUnit
 
-Frontend : HTML5 | CSS3 | SCSS | JavaScript | TypeScript | Angular | RxJs | NgRx | Jasmine | Karma | Bootstrap |
+Frontend : HTML5 | CSS3 | SCSS | JavaScript | TypeScript | Angular | RxJs | NgRx | Jasmine | Jest | Bootstrap |
 Angular Material | DevExtreme | JSON Server | Chrome Developer Tools | Micro Front End | Visual Studio Code
 
 DevOps : Git | GitHub | CI/CD | AWS S3 | AWS Cloudfront
