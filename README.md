@@ -15,7 +15,7 @@ Database : MySQL
 
 Backend : Java | Spring Boot | JUnit
 
-Frontend : HTML5 | CSS3 | SCSS | JavaScript | TypeScript | Angular | RxJs | Jasmine | Jest | Chrome Developer Tools | Visual Studio Code
+Frontend : HTML5 | CSS3 | JavaScript | TypeScript | Angular | RxJs | Jasmine | Jest | Chrome Developer Tools | Visual Studio Code
 
 DevOps : Git | GitHub | CI/CD | AWS S3 | AWS Cloudfront
 
