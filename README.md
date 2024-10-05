@@ -2,7 +2,7 @@
 
 ### About Me 🙌
 
-I'm a .NET Full Stack Developer with over 2.8 years of experience in front-end and back-end development.
+I'm a Java Full Stack Developer with over 3 years of experience in front-end and back-end development.
 Experienced in collaborating with cross-functional teams to deliver high-quality code.
 
 My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
@@ -11,12 +11,11 @@ My motto of being determined towards the software world and its development for 
 
 ### Skills 🚀
 
-Database : MSSQL
+Database : MySQL
 
-Backend : C# | .NET Core | Entity Framework Core | ASP.NET Core Web API | XUnit
+Backend : Java | Spring Boot | JUnit
 
-Frontend : HTML5 | CSS3 | SCSS | JavaScript | TypeScript | Angular | RxJs | NgRx | Jasmine | Jest | Bootstrap |
-Angular Material | DevExtreme | JSON Server | Chrome Developer Tools | Micro Front End | Visual Studio Code
+Frontend : HTML5 | CSS3 | SCSS | JavaScript | TypeScript | Angular | RxJs | Jasmine | Jest | Chrome Developer Tools | Visual Studio Code
 
 DevOps : Git | GitHub | CI/CD | AWS S3 | AWS Cloudfront
 
