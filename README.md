@@ -12,15 +12,25 @@ My motto of being determined towards the software world and its development for 
 ### Skills 🚀
 
 • Databases: MySQL
+
 • Languages: Core Java, Java 8
+
 • Frameworks: Spring Boot
+
 • ORM tool: Data JPA (Hibernate)
+
 • Build tool: Maven
+
 • Version Control: Git
+
 • CI/CD pipeline: GitHub Actions
+
 • Cloud: AWS
+
 • API Documentation: Swagger
+
 • Testing Framework: JUnit, Mockito
+
 • Developer Tools: MySQL Workbench, Eclipse, IntelliJ, VS
 Code, Postman
 
