@@ -2,7 +2,7 @@
 
 ### About Me 🙌
 
-I'm a Java Full Stack Developer with over 3 years of experience in front-end and back-end development.
+I'm a Java Spring Boot Developer with over 3 years of experience in back-end development.
 Experienced in collaborating with cross-functional teams to deliver high-quality code.
 
 My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
@@ -11,15 +11,18 @@ My motto of being determined towards the software world and its development for 
 
 ### Skills 🚀
 
-Database : MySQL
-
-Backend : Java | Spring Boot | JUnit
-
-Frontend : HTML5 | CSS3 | JavaScript | TypeScript | Angular | RxJs | Jasmine | Jest | Chrome Developer Tools | Visual Studio Code
-
-DevOps : Git | GitHub | CI/CD | AWS S3 | AWS Cloudfront
-
-Miscellaneous : JIRA | Scrum | Agile
+• Databases: MySQL
+• Languages: Core Java, Java 8
+• Frameworks: Spring Boot
+• ORM tool: Data JPA (Hibernate)
+• Build tool: Maven
+• Version Control: Git
+• CI/CD pipeline: GitHub Actions
+• Cloud: AWS
+• API Documentation: Swagger
+• Testing Framework: JUnit, Mockito
+• Developer Tools: MySQL Workbench, Eclipse, IntelliJ, VS
+Code, Postman
 
 #
 
